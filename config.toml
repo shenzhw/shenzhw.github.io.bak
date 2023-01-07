@@ -1,0 +1,4 @@
+baseURL = 'http://www.shenzhw.run/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
