@@ -1,7 +1,7 @@
 ---
 title: "Bark"
 date: 2023-01-08T22:24:24+08:00
-draft: true
+draft: false
 ---
 
 ## 带有标题的消息
